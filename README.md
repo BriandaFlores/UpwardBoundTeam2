@@ -4,6 +4,6 @@
 [ Trapped in a horor mansion players must scheme their way through haunted rooms filled with traps and escape successfully.]
 
 ## Team Members
-[Michael] -[Brianda]
+[Michael] [Brianda]
 ## Planned Tools
--Python -Replit -GitHub
+Python Replit GitHub
