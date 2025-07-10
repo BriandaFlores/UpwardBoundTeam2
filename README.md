@@ -2,8 +2,7 @@
 ## Game Title  
 Escape Dio's Mansion
 ## Game Description
-Trapped in a horor mansion players must scheme their way through haunted rooms filled with traps and escape successfully
-
+Trapped in Dio's mansion, the players must find a way to escape the labyrinth that is dio's mansion, dodging enemies along the way
 ## Team Members
 Michael Brianda
 ## Planned Tools
