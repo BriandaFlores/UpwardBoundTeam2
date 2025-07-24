@@ -4,7 +4,7 @@ Escape Dio's Mansion
 ## Game Description
 Platformer
 # Story 
-Trapped in the heart of Dio’s sinister mansion, players must battle their way through a shifting labyrinth infused with the power of Stands. Inspired by *JoJo’s Bizarre Adventure*, this fast-paced platformer throws players into a bizarre world where time can stop, objects come to life, and danger lurks around every gothic corridor. Dodge Stand-wielding enemies, solve mind-bending puzzles, and collect coins and power-ups to unlock your own Stand abilities. As the mansion twists reality around you, your only chance of survival is to harness your Stand’s potential and make it to the final showdown with Dio himself. Will you escape the madness—or become another soul trapped in his eternal nightmare?
+Trapped in the heart of Dio’s sinister mansion, players must battle their way through a shifting labyrinth infused with the power of Stands. Inspired by *JoJo’s Bizarre Adventure*, this fast-paced platformer throws players into a bizarre world where time can stop, objects come to life, and danger lurks around every 15 corridors. Dodge Stand-wielding enemies and collect coins and power-ups to unlock your Stand abilities. As the mansion twists reality around you, your only chance of survival is to harness your Stand’s potential and make it to the showdown with Dio himself. Will you escape the madness—or become another soul trapped in his eternal nightmare?
 ## Team Members
 Michael Brianda
 ## Planned Tools
@@ -19,7 +19,7 @@ use the A W D keys to move/jump
 # end screen
 <img src="blob:chrome-untrusted://media-app/a4fff077-bdab-4ace-9fdc-a276d5b06c5b" alt="BDB421AE-20A5-475B-AFCE-95DF38E43976.png"/><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e7ebabe-b033-4d6d-9537-1e116ec08f05" />
 # game play screenshot
-
+<img width="714" height="554" alt="image" src="https://github.com/user-attachments/assets/bc5636f8-6585-49b1-aece-409585ba74b6" /
 # Credits
 
 ## Learned
