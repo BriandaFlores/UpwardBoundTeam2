@@ -4,7 +4,7 @@ Escape Dio's Mansion
 ## Game Description
 Platformer
 # Story 
-Trapped in Dio's mansion, the players must find a way to escape the labyrinth that is dio's mansion, dodging enemies along the way. Along the way they can collect coins and power ups as to get stronger until they reach the goal. 
+Trapped in the heart of Dio’s sinister mansion, players must battle their way through a shifting labyrinth infused with the power of Stands. Inspired by *JoJo’s Bizarre Adventure*, this fast-paced platformer throws players into a bizarre world where time can stop, objects come to life, and danger lurks around every gothic corridor. Dodge Stand-wielding enemies, solve mind-bending puzzles, and collect coins and power-ups to unlock your own Stand abilities. As the mansion twists reality around you, your only chance of survival is to harness your Stand’s potential and make it to the final showdown with Dio himself. Will you escape the madness—or become another soul trapped in his eternal nightmare?
 ## Team Members
 Michael Brianda
 ## Planned Tools
