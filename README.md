@@ -4,7 +4,7 @@
 ## Game Description
 Platformer
 # Story 
-Trapped in the heart of Dio’s sinister mansion, players must battle their way through a shifting labyrinth infused with the power of Stands. Inspired by *JoJo’s Bizarre Adventure*, this fast-paced platformer throws players into a bizarre world where time can stop, objects come to life, and danger lurks around every 15 corridors. Dodge Stand-wielding enemies and collect coins and power-ups to unlock your Stand abilities. As the mansion twists reality around you, your only chance of survival is to harness your Stand’s potential and make it to the showdown with Dio himself. Will you escape the madness—or become another soul trapped in his eternal nightmare?
+Trapped in the heart of Dio’s sinister mansion, players must battle their way through a shifting labyrinth infused with the power of Stands. Inspired by *JoJo’s Bizarre Adventure*, this fast-paced platformer throws players into a bizarre world where time can stop, objects come to life, and danger lurks around every 15 corridors. Dodge Stand-wielding enemies and collect coins and power-ups to unlock your Stand abilities. Your only chance of survival is to harness your Stand’s potential and make it to the showdown with Dio himself. Will you escape the madness—or become another soul trapped in his eternal nightmare?
 ## Team Members
 Michael Brianda
 ## Planned Tools
@@ -27,7 +27,7 @@ use the A W D keys to move/jump
 # Michael
 
 # Brianda
-
+Over the past few weeks, I have learned many concepts related to coding with Python. First, I grasped the basics of Python, which helped me when creating my two-player platform game. Although we used templates to build our game, I still managed to learn the complexities of adding assets from scratch. These assets included composing original music, creating sound effects, and designing sprites and power-ups. I particularly enjoyed incorporating art, especially because the theme was inspired by "JoJo's Bizarre Adventure." Everything came together nicely under this single theme. I am grateful for the opportunity to learn about all the resources available for creating games, and this experience has inspired me to develop more games in the future.
 ## Replit Link
 [Escape Dio's Mansion](https://replit.com/@michaelphan0331/Pygame?v=1)
 ⚡️ゴゴゴゴ⚡️
