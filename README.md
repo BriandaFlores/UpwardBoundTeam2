@@ -1,6 +1,6 @@
 # UpwardBoundTeam2
 ## Game Title  
-Escape Dio's Mansion
+ ★Escape Dio's Mansion ★
 ## Game Description
 Platformer
 # Story 
@@ -30,4 +30,4 @@ use the A W D keys to move/jump
 
 ## Replit Link
 [Escape Dio's Mansion](https://replit.com/@michaelphan0331/Pygame?v=1)
-
+⚡️ゴゴゴゴ⚡️
