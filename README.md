@@ -19,7 +19,7 @@ use the A W D keys to move/jump
 # end screen
 <img src="blob:chrome-untrusted://media-app/a4fff077-bdab-4ace-9fdc-a276d5b06c5b" alt="BDB421AE-20A5-475B-AFCE-95DF38E43976.png"/><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6e7ebabe-b033-4d6d-9537-1e116ec08f05" />
 # game play screenshot
-<img width="714" height="554" alt="image" src="https://github.com/user-attachments/assets/bc5636f8-6585-49b1-aece-409585ba74b6" /
+<img width="714" height="554" alt="Screenshot 2025-07-24 9 30 32 AM" src="https://github.com/user-attachments/assets/709a1589-5090-4a05-9c4f-c2c1558e596e" />
 # Credits
 
 ## Learned
